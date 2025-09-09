@@ -12,7 +12,7 @@ export const ToDoList = () => {
             className="w-[280px] h-[38px] border-[1px] rounded-2xl px-4"
           />
         </div>
-        <button className="addBtn bg-blue-500 h-[40px] rounded-md px-4 py-2 cursor-pointer  ">
+        <button className="addBtn bg-blue-500 h-[40px] rounded-md px-4 py-2 cursor-pointer text-white  ">
           Add
         </button>
       </div>
