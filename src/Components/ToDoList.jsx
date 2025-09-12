@@ -38,7 +38,7 @@ export const ToDoList = () => {
           href="http://www.pinecone.mn"
           target="blank"
         >
-          Pinecone academy ghghghg
+          Pinecone academy
         </a>
       </div>
     </div>
